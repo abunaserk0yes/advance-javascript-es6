@@ -5,6 +5,7 @@
 // const num=false
 // const num=null;
 // const num='';
+// const num=``;
 
 /*truthy-value*/
 
